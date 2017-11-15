@@ -1,0 +1,58 @@
+<?xml version = "1.0"?>
+<thaiRestaurants>		
+		<spiceRestaurant>
+				<name>Thai Spice </name>
+				<location>Lee&apos;s Summit</location>
+				<address>1192 NE Douglas St, Lee&apos;s Summit, MO 64086</address>
+				<phone>(816) 347-9859</phone>
+				<hours>
+						Friday	11AM–3PM, 5–10PM
+						Saturday	12–9:30PM
+						Sunday	12–9PM
+						Monday	11AM–3PM, 5–9PM
+						Tuesday	11AM–3PM, 5–9PM
+						Wednesday	11AM–3PM, 5–9PM
+						Thursday	11AM–3PM, 5–9PM
+				
+				</hours>
+				<website>No website</website>
+		</spiceRestaurant>
+		
+		<maliRestaurant>
+				<name>Mali Thai Bistro </name>
+				<location>Lee&apos;s Summit</location>
+				<address>579 SE Melody Ln, Lee&apos;s  Summit, MO 64063</address>
+				<phone>(816) 944-4119</phone>
+				<hours>
+						Friday	11AM–10PM
+						Saturday	11AM–10PM
+						Sunday	12–8PM
+						Monday	11AM–9PM
+						Tuesday	11AM–9PM
+						Wednesday	11AM–9PM
+						Thursday	11AM–9PM
+
+				
+				</hours>
+				<website>No website</website>
+		</maliRestaurant>
+		<appleRestaurant>
+				<name>Applebee's </name>
+				<location>Warrensburg</location>
+				<address>255 Cooper Blvd, Warrensburg, MO 64093</address>
+				<phone>(660) 747-1683</phone>
+				<hours>
+						Monday	11AM–12AM
+						Tuesday	11AM–12AM
+						Wednesday	11AM–12AM
+						Thursday	11AM–12AM
+						Friday	11AM–12AM
+						Saturday	11AM–12AM
+						Sunday	11AM–12AM
+
+				
+				</hours>
+				<website>applebees.com</website>
+		</appleRestaurant>
+		
+</thaiRestaurants>

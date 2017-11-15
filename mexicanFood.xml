@@ -1,0 +1,50 @@
+<?xml version = "1.0"?>
+<mexicanRestaurants>
+		<cancunRestaurant>
+				<name>Cancun Mexican Cuisine</name>
+				<location>Warrensburg</location>
+				<address>708 N Charles St, Warrensburg, MO 64093</address>
+				<phone>(660) 362-0610</phone>
+				<hours>Friday	11AM–10PM
+						Saturday	11AM–10PM
+						Sunday	11AM–9:30PM
+						Monday	11AM–9:30PM
+						Tuesday	11AM–9:30PM
+						Wednesday	11AM–9:30PM
+						Thursday	11AM–9:30PM
+				</hours>
+				<website>No website</website>
+		</cancunRestaurant>
+		
+		<e1Restaurant>
+				<name>El Monterrey Mexican Restaurant</name>
+				<location>Warrensburg</location>
+				<address>503 N Maguire St, Warrensburg, MO 64093</address>
+				<phone>(660) 747-1600</phone>
+				<hours>	Monday	11AM–9PM
+						Tuesday	11AM–9PM
+						Wednesday	11AM–9PM
+						Thursday	11AM–9PM
+						Friday	11AM–10PM
+						Saturday	11AM–10PM
+						Sunday	11AM–10PM</hours>
+				<website>http://elmonterreymexrestaurant.com</website>
+		</e1Restaurant>
+		
+		<tacobel>
+				<name>Taco Bell</name>
+				<location>Warrensburg</location>
+				<address>701 N Maguire St, Warrensburg, MO 64093</address>
+				<phone>(660) 747-2877</phone>
+				<hours>	Monday	5:30AM–1AM
+						Tuesday	5:30AM–1AM
+						Wednesday 5:30AM–1AM
+						Thursday 5:30AM–1AM
+						Friday	5:30AM–2AM
+						Saturday	5:30AM–2AM
+						Sunday	5:30AM–1AM</hours>
+				<website>http://elmonterreymexrestaurant.com</website>
+		</tacobel>
+		
+</mexicanRestaurants>
+ 

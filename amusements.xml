@@ -1,0 +1,76 @@
+<?xml version = "1.0"?>
+<AmusementsDetails>
+	<WorldsOfFun>
+		<name>Worlds Of Fun</name>
+		<location>East loop of I-435 at exit 54 in Kansas City</location>
+		<address>4545 Worlds of Fun Avenue, 
+		Kansas City, 
+		MO 64161
+		</address>
+		<phone>(816) 454-4545</phone>
+		<website>https://www.worldsoffun.com</website>
+	</WorldsOfFun>
+	
+	<AdventureOasis>
+		<name>Adventure Oasis Water Park</name>
+		<location>24 Highway and North Delaware</location>
+		<address>2100 Hub Dr.
+		Independence, 
+		MO 64055
+		</address>
+		<phone>(816) 325-7843</phone>
+		<website>http://www.ci.independence.mo.us</website>
+	</AdventureOasis>
+	
+	<CocoKeyWater>
+		<name>Coco Key Water Resort</name>
+		<location>Adam's Mark Hotel and Conference Center</location>
+		<address>9103 E 39th St.
+		Kansas City, 
+		MO 64133
+		</address>
+		<phone>(816) 737-0200</phone>
+		<website>http://www.cocokeykansascity.com</website>
+	</CocoKeyWater>
+	
+	<GreatWolfLodge>
+		<name>Great Wolf Lodge</name>
+		<location>Kansas City</location>
+		<address>10401 Cabela Dr.
+		Kansas City,
+		KS 66111
+		</address>
+		<phone>(913) 907-2954</phone>
+		<website>https://www.greatwolf.com/kansas-city</website>
+	</GreatWolfLodge>
+	
+	<TheSpringsAquatic>
+		<name>The Springs Aquatic Center</name>
+		<location>Tiffany Hills Park</location>
+		<address>9400 N Congress Ave.
+Kansas City, MO 64153
+		</address>
+		<phone>(816) 880-0279</phone>
+		<website>http://thespringskc.com/</website>
+	</TheSpringsAquatic>
+	
+	<TheBayWater>
+		<name>The Bay Water Park</name>
+		<location>Kansas City</location>
+		<address>7101 Longview Rd.
+		Kansas City, MO 64134
+		</address>
+		<phone>(816) 965-9218</phone>
+		<website>http://thebaykc.com</website>
+	</TheBayWater>
+	
+	<Schlitterbahn>
+		<name>Schlitterbahn Kansas City WaterPark</name>
+		<location>Kansas City</location>
+		<address>9400 State Ave.
+Kansas City, KS 66112
+		</address>
+		<phone> (913) 312-3110</phone>
+		<website>http://www.schlitterbahn.com/kansas-city</website>
+	</Schlitterbahn>
+</AmusementsDetails>

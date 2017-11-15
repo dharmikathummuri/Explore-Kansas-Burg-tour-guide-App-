@@ -1,0 +1,66 @@
+<?xml version = "1.0"?>
+<japaneseRestaurants>
+		<sikiRestaurant>
+				<name>Siki Japanese Steak House Sushi Bar </name>
+				<location> Lee&apos;s Summit</location>
+				<address>601 NW Blue Pkwy, Lee&apos;s Summit, MO 64063</address>
+				<phone>(816) 525-4877</phone>
+				<hours>Friday	11AM–2PM, 4–10PM
+						Saturday	12–10PM
+						Sunday	12–9PM
+						Monday	11AM–2PM, 4–9:30PM
+						Tuesday	11AM–2PM, 4–9:30PM
+						Wednesday 11AM–2PM, 4–9:30PM
+						Thursday 11AM–2PM, 4–9:30PM
+				</hours>
+				<website>No Website</website>
+		</sikiRestaurant>
+		<naraRestaurant>
+				<name>Nara Restaurant</name>
+				<location> Kansas City</location>
+				<address> 1617 Main St #100, Kansas City, MO 64108</address>
+				<phone>(816) 221-6272</phone>
+				<hours>Monday	11AM–11PM
+						Tuesday	11AM–11PM
+						Wednesday	11AM–11PM
+						Thursday	11AM–11PM
+						Friday	11AM–12AM
+						Saturday	3PM–12AM
+						Sunday	Closed
+				</hours>
+				<website>No Website</website>
+		</naraRestaurant>
+		
+		<friendsRestaurant>
+				<name>Friends Sushi Bento Place</name>
+				<location> Kansas City</location>
+				<address> 1808 W 39th St, Kansas City, MO 64111</address>
+				<phone>(816) 753-6666</phone>
+				<hours>Monday	11AM–2:30PM, 5–9PM
+						Tuesday	11AM–2:30PM, 5–9PM
+						Wednesday	11AM–2:30PM, 5–9PM
+						Thursday	11AM–2:30PM, 5–9PM
+						Friday	11AM–2:30PM, 5–10PM
+						Saturday	11AM–2:30PM, 5–10PM
+						Sunday	Closed
+				</hours>
+				<website>friendssushikc.com</website>
+		</friendsRestaurant>
+		<kcSushiRestaurant>
+				<name>KC Sushi</name>
+				<location> Kansas City</location>
+				<address> 7753 NW Prairie View Rd, Kansas City, MO 64151</address>
+				<phone>(816) 741-8882</phone>
+				<hours>Monday	11AM–2PM, 5–9:30PM
+						Tuesday	11AM–2PM, 5–9:30PM
+						Wednesday	11AM–2PM, 5–9:30PM
+						Thursday	11AM–2PM, 5–9:30PM
+						Friday	11AM–2PM, 5–10PM
+						Saturday	12–10PM
+						Sunday	12–9PM
+				</hours>
+				<website>kcsushi.com</website>
+		</kcSushiRestaurant>
+		
+
+</japaneseRestaurants>

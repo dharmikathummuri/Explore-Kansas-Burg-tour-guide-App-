@@ -1,0 +1,69 @@
+<?xml version = "1.0"?>
+<chineseRestaurants>
+		<kingRestaurant>
+				<name>King's Chef Buffet </name>
+				<location>Warrensburg</location>
+				<address>501 N Maguire St, Warrensburg, MO 64093</address>
+				<phone>(660) 747-0880</phone>
+				<hours>	Monday	10:30AM–10:30PM
+						Tuesday	10:30AM–10:30PM
+						Wednesday	10:30AM–10:30PM
+						Thursday	10:30AM–10:30PM
+						Friday	10:30AM–11PM
+						Saturday	10:30AM–11PM
+						Sunday	10:30AM–10:30PM
+
+				</hours>
+				<website>kingschefbuffet.com</website>
+		</kingRestaurant>
+		
+		<HongkongRestaurant>
+				<name>Hong Kong Express </name>
+				<location>Warrensburg</location>
+				<address>601 S Maguire St, Warrensburg, MO 64093</address>
+				<phone>(660) 429-5595</phone>
+				<hours>	Monday	10AM–10PM
+						Tuesday	10AM–10PM
+						Wednesday	10AM–10PM
+						Thursday	10AM–10PM
+						Friday	10AM–10PM
+						Saturday	10AM–10PM
+						Sunday	10AM–10PM
+				</hours>
+				<website>http://urbanspoon.com</website>
+		</HongkongRestaurant>
+
+		<orientalRestaurant>
+				<name>Oriental Cuisine </name>
+				<location>Warrensburg</location>
+				<address>705 Burkarth Rd, Warrensburg, MO 64093</address>
+				<phone>(660) 429-1020</phone>
+				<hours>	Monday	11AM–9PM
+						Tuesday	11AM–9PM
+						Wednesday	11AM–9PM
+						Thursday	11AM–9PM
+						Friday	11AM–9PM
+						Saturday	11AM–9PM
+						Sunday	Closed
+				</hours>
+				<website>No website</website>
+		</orientalRestaurant>
+		
+		<chinaRestaurant>
+				<name>China King </name>
+				<location>Lee&apos;s Summit</location>
+				<address>305 NE Todd George Rd, Lee&apos;s Summit, MO 64086</address>
+				<phone>(816) 525-8868</phone>
+				<hours>Friday	11AM–10PM
+						Saturday	11AM–10PM
+						Sunday	11AM–10PM
+						Monday	11AM–10PM
+						Tuesday	11AM–10PM
+						Wednesday	11AM–10PM
+						Thursday	11AM–10PM
+				</hours> 	
+				<website>No website</website>
+		</chinaRestaurant>
+		
+	
+</chineseRestaurants>

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>welcome to warrensburg and kansas city tour guide</title>
+		<link rel="stylesheet" href="homepage.css">
+		
+		<script type="text/javascript">
+		function clickMe()
+		{
+			
+		
+		var firstName= document.getElementById("input1").value;
+		var LastName= document.getElementById("input2").value;
+		
+			if(firstName=="")
+			{
+	
+				alert("please Enter your first Name");
+			}
+			if(LastName=="")
+			{
+			
+				alert("please Enter your last Name");
+			}
+		
+			else
+			{
+				
+			    document.getElementById("displayId").innerHTML = "Hello "+firstName+ "  " + LastName +  " ,Thank you For registering, Welcome to Our Website.";
+			
+			}
+		
+		
+		
+		
+		
+		}//end click me
+		
+		</script>
+		<style>
+			form {
+				display: block;
+				margin-top: 0em;
+				}
+		
+		</style>
+		
+		
+		
+		
+		
+		
+	</head>
+	<body background ="images\skulls.png">
+		
+		
+		
+		
+		<div id="header">	
+		
+			<div><img src="images\frontHeader.jpg" alt="coverImage" height="200" width="1600" border="0">
+			</div>
+		</div>
+		
+		<!-- this is for navigation bar-->
+		<div id="navButton">
+		<ul>
+			<li class="dropdown">
+				<a href="home.html" class="dropbtn">Home</a>
+				<div class="dropdown-content">
+					<a href="about.html">About</a>
+				</div>
+			</li>
+			<li class="dropdown">
+				<a href="#" class="dropbtn">Eateries</a>
+				<div class="dropdown-content">
+					<a href="indianRest.html">Indian</a>
+					<a href="otherRestaurant.html">others</a>
+				</div>
+			</li>
+			
+			<li class="dropdown">
+			<a href="#Entertainment">Entertainment</a>
+			<div class="dropdown-content">
+			<a href="MovietheatrePage.html">Movie theatres</a>
+			<a href="AmusementsPage.html">Amusements and Water Parks</a>
+			<a href="zooPage.html">Zoo and Animal Parks</a>
+			<a href="temple.html">Indian Hindu Temples</a>
+
+
+			</div>
+			</li>
+			
+			
+			
+			<li class="dropdown">
+			
+			<a href="#" class="dropbtn">Shopping</a>
+				<div class="dropdown-content">
+					<a href="indianGroceries.html">Indian Groceries</a>
+					<a href="shopping.html">Shopping Malls</a>
+				</div>
+			
+			</li>
+			
+				<li class="dropdown">
+				<a href="registration.html" class="dropbtn">Registration</a>
+				
+			</li>
+			
+				<li class="dropdown">
+				<a href="contacts.html" class="dropbtn">Contact</a>
+				
+			</li>
+			
+		</ul>
+		</div>
+				<h2 align="center">
+					Register here
+				</h2>
+				<form action="#" method="post" align="center">
+				
+					<p style="font-size:25px;">Enter Your First Name 
+					<input type="text" size="35px" id="input1" placeholder="First Name" required="required">
+					</p>
+					
+					
+					<p style="font-size:25px;">Enter Your Your Last Name
+
+					<input type="text" size="35" id="input2" placeholder="Last Name" required="required">
+					
+					</p>
+					
+					
+					<p><input type="button" onclick="clickMe()" value="Submit" id="submitButton"/>
+					
+					<h2> <label id="displayId"></label><h2>
+				
+				</form>
+				
+			
+			
+		
+		
+					
+						
+						
+			
+	</body>	
+</html>

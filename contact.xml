@@ -1,0 +1,25 @@
+<?xml version = "1.0"?>
+  <contacts>
+      <baseurl>images\</baseurl>
+  	  <contact>
+         <image>kataImage.jpg</image>
+         <name>JYOTHI RANI KATA</name>
+		 <id>700659284</id>
+		 <email>JXK92840@ucmo.edu</email>
+      </contact>
+	  <contact>
+         <image>thummuriImage.jpg</image>
+         <name>DHARMIKA THUMMURI</name>
+		 <id>700657758</id>
+		 <email>DXT77580@ucmo.edu</email>
+      </contact>
+	  <contact>
+         <image>velpulaImage.jpg</image>
+         <name>NEELIMA VELPULA</name>
+		 <id>700658318</id>
+		 <email>NXV83180@ucmo.edu</email>
+      </contact>
+	  
+	  
+     
+  </contacts>

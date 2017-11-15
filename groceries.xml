@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<indianStores>
+				
+				<swagatDetails>
+							<name>Swagat Spice Bazaar </name>
+							
+							<location>Zona Rosa Town Center </location>
+							<address> Zona Rosa Town Center, 7407 NW 87th St, Kansas City, MO 64153</address>
+							<phone>(816) 746-4300</phone>
+							<hours> Saturday:	12–9PM,
+									Sunday	12–6PM,
+									Monday	12–9PM,
+									Tuesday	12–9PM,
+									Wednesday	12–9PM,
+									Thursday	12–9PM,
+									Friday	12–9PM.
+							</hours>
+							
+				</swagatDetails>
+							
+				
+			
+				<kcDetails>
+							<name> KC India Mart</name>
+							
+							<location>Overland Park </location>
+							<address>Overland Pointe Marketplace, 8542 W 133rd St, Overland Park, KS 66213</address>
+							<phone>(913) 681-0808</phone>
+							<hours> Saturday	10AM–9:30PM,
+									Sunday	11AM–9PM,
+									Monday	12–9PM,
+									Tuesday	11AM–9PM,
+									Wednesday	11AM–9PM,
+									Thursday	11AM–9PM,
+									Friday	11AM–9:30PM. 
+							</hours>
+							
+				</kcDetails>		
+
+				<opigDetails>	
+											
+							<name>Our Place Indian Grocery </name>
+							<location>Overland Park </location>
+							<address> Shannon Valley Shopping Center, 11170 Antioch Rd, Overland Park, KS 66210</address>
+							<phone>(913) 451-0008</phone>
+							<hours> Saturday	11AM–10PM,
+									Sunday	11AM–10PM,
+									Monday	11AM–10PM,
+									Tuesday	11AM–10PM,
+									Wednesday	11AM–10PM,
+									Thursday	11AM–10PM,
+									Friday	11AM–10PM.</hours>
+							
+				</opigDetails>		
+
+				<namasteIndiaDetails>	
+							<name>Namaste India </name>
+							
+							<location> Overland Park</location>
+							<address>10563 Metcalf Ave, Overland Park, KS 66212 </address>
+							<phone>(913) 901-8787</phone>
+							<hours>Saturday:	10AM–8PM,
+									Sunday:	10AM–7PM,
+									Monday:	Closed,
+									Tuesday:	10AM–8PM
+									Wednesday:	10AM–8PM
+									Thursday:	10AM–9PM
+									Friday:	10AM–8PM </hours>
+				</namasteIndiaDetails>			
+							
+				<ambicaFoodDetails>
+							<name> Ambica Foods</name>
+							
+							<location>  Overland Park</location>
+							<address> 9054 Metcalf Ave, Overland Park, KS 66212</address>
+							<phone>(913) 901-8700</phone>
+							<hours>Saturday	11AM–9PM
+									Sunday	11AM–6PM
+									Monday	Closed
+									Tuesday	11AM–9PM
+									Wednesday	11AM–9PM
+									Thursday	11AM–9PM
+									Friday	11AM–9PM </hours>
+				</ambicaFoodDetails>	
+
+				<chaiShaiDetails>		
+							<name> Chai Shai</name>
+							
+							<location> South Kansas City</location>
+							<address>651 E 59th St, Kansas City, MO 64110 </address>
+							<phone>(816) 260-5203</phone>
+							<hours> Saturday	11AM–9PM
+									Sunday	11AM–9PM
+									Monday	Closed
+									Tuesday	11AM–9PM
+									Wednesday	11AM–9PM
+									Thursday	11AM–9PM
+									Friday	11AM–9PM</hours>
+				</chaiShaiDetails>		
+
+				<patelDetails>	
+							
+							<name> Patel Foods Indian Groceries	</name>
+							
+							<location>Overland Park</location>
+							<address> 7214 W 119th St, Overland Park, KS 66213</address>
+							<phone>(913) 696-1950</phone>
+							<hours>Saturday	10:30AM–9PM
+									Sunday	10:30AM–9PM
+									Monday	10:30AM–9PM
+									Tuesday	10:30AM–9PM
+									Wednesday	10:30AM–9PM
+									Thursday	10:30AM–9:30PM
+									Friday	10:30AM–9PM </hours>
+							
+				</patelDetails>		
+
+				<asianDetails>	
+							<name>TT Asian Grocery</name>
+							
+							<location>Overland Park </location>
+							<address>10138 W 119th St, Overland Park, KS 66210 </address>
+							<phone>(913) 766-4960</phone>
+							<hours>Saturday	11AM–8PM
+									Sunday	12–8PM
+									Monday	Closed
+									Tuesday	11AM–8PM
+									Wednesday	11AM–8PM
+									Thursday	11AM–8PM
+									Friday	11AM–8PM </hours>
+				</asianDetails>		
+
+				
+				<indianDetails>	
+							<name>India Emporium </name>
+							
+							<location> Overland Park</location>
+							<address>  Indian Creek Shopping Center, 10458 Metcalf Ave, Overland Park, KS 66212</address>
+							<phone>(913) 642-1161</phone>
+							<hours> Saturday	10AM–9PM
+									Sunday	12–8PM
+									Monday	10AM–9PM
+									Tuesday	10AM–9PM
+									Wednesday	10AM–9PM
+									Thursday	10AM–9PM
+									Friday	10AM–9PM
+							</hours>
+				</indianDetails>			
+</indianStores>

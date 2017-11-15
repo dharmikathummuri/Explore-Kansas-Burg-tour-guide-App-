@@ -1,0 +1,70 @@
+<?xml version = "1.0"?>
+<otherRestaurants>
+		<cafeRestaurant>
+				<name>Cafe Blackadder </name>
+				<location> Warrensburg</location>
+				<address>121 N Holden St, Warrensburg, MO 64093</address>
+				<phone>(660) 747-2382</phone>
+				<hours>Friday	11AM–8PM
+						Saturday	11AM–8PM
+						Sunday	Closed
+						Monday	11AM–4PM
+						Tuesday	11AM–4PM
+						Wednesday	11AM–4PM
+						Thursday	11AM–8PM
+				</hours>
+				<website>No website</website>
+		</cafeRestaurant>
+		
+		<crazyRestaurant>
+				<name> Crazy Dog  </name>
+				<location>Warrensburg</location>
+				<address>101 N Maguire St, Warrensburg, MO 64093</address>
+				<phone>(660) 362-0364</phone>
+				<hours>
+				Friday	11AM–10PM
+				Saturday	11AM–10PM
+				Sunday	11AM–10PM
+				Monday	11AM–10PM
+				Tuesday	11AM–10PM
+				Wednesday	11AM–10PM
+				Thursday	11AM–10PM
+				</hours>
+				<website>No website</website>
+		</crazyRestaurant>
+		
+		<buffalowildwings>
+				<name> Buffalo Wild Wings  </name>
+				<location>Warrensburg</location>
+				<address>303 Cooper Blvd a, Warrensburg, MO 64093</address>
+				<phone>(660) 422-3369</phone>
+				<hours>Friday	11AM–1AM
+						Saturday	11AM–1AM
+						Sunday	11AM–12AM
+						Monday	11AM–12AM
+						Tuesday	11AM–12AM
+						Wednesday	11AM–12AM
+						Thursday	11AM–12AM
+				
+				</hours>
+				<website>http://www.buffalowildwings.com/en/menu/</website>
+		</buffalowildwings>
+		
+		<granaryRestaurant>
+				<name> The Granary Tap House &amp; Grill  </name>
+				<location>Warrensburg</location>
+				<address>146 W Pine St, Warrensburg, MO 64093</address>
+				<phone>(660) 362-1550</phone>
+				<hours>Friday	11AM–1:30AM
+						Saturday	11AM–1:30AM
+						Sunday	Closed
+						Monday	5PM–1:30AM
+						Tuesday	11AM–1:30AM
+						Wednesday	11AM–1:30AM
+						Thursday	11AM–1:30AM
+				</hours>
+				<website>No website</website>
+		</granaryRestaurant>
+		
+		
+</otherRestaurants>

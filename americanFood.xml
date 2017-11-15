@@ -1,0 +1,56 @@
+<?xml version = "1.0"?>
+<americanRestaurants>
+		<heroesRestaurant>
+				<name>Heroes Restaurant &amp; Pub  </name>
+				<location>Warrensburg</location>
+				<address>107 W Pine St,  Warrensburg, MO 64093</address>
+				<phone>(660) 747-3162</phone>
+				<hours>	Friday	11AM–1:30AM
+						Saturday	11AM–1:30AM
+						Sunday	10AM–12AM
+						Monday	11AM–12AM
+						Tuesday	11AM–12AM
+						Wednesday	11AM–12AM
+						Thursday	11AM–12AM
+				</hours>
+				<website>http://heroeswarrensburg.com/full-service-bar.php</website>
+		</heroesRestaurant>
+		
+		
+		
+		
+		<fitterRestaurant>
+				<name>Fitter&apos;s Pub  </name>
+				<location>Warrensburg</location>
+				<address>131 W Pine St, Warrensburg, MO 64093</address>
+				<phone>(660) 429-3500</phone>
+				<hours>Friday	11AM–1:30AM
+						Saturday	11AM–1:30AM
+						Sunday	11AM–12AM
+						Monday	11AM–1:30AM
+						Tuesday	11AM–1:30AM
+						Wednesday	11AM–1:30AM
+						Thursday	11AM–1:30AM
+				</hours>
+				<website>http://fitterspub.com/starters/3744054</website>
+		</fitterRestaurant>
+		
+		
+		<thirdStreetRestaurant>
+				<name>Third Street Social  </name>
+				<location>Lee&apos;s Summit</location>
+				<address>123 SE 3rd St, Lee's Summit, MO 64063</address>
+				<phone>(816) 384-2123</phone>
+				<hours>Friday	11AM–1AM
+						Saturday	10AM–1AM
+						Sunday	10AM–12AM
+						Monday	11AM–12AM
+						Tuesday	11AM–12AM
+						Wednesday	11AM–12AM
+						Thursday	11AM–12AM
+				</hours>
+				<website>http://www.opentable.com/r/third-street-social-lees-summit?ref=1068</website>
+		</thirdStreetRestaurant>
+		
+	
+</americanRestaurants>

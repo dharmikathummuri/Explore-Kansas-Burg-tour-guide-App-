@@ -1,0 +1,107 @@
+<?xml version = "1.0"?>
+<MovieTheatres>
+	<AlamoDrafthouse>
+		<name>Alamo Drafthouse Mainstreet</name>
+		<location>Kansas City Power and Light District</location>
+		<address>Kansas City Power and Light District,
+		1400 Main Street, 
+		Kansas City, 
+		MO 64105
+		</address>
+		<phone>(816) 474-4545</phone>
+		<website>https://drafthouse.com/kansas-city</website>
+	</AlamoDrafthouse>
+	
+	<AMCBarrywoods>
+		<name>AMC Barrywoods 24</name>
+		<location>Barrywoods Crossing</location>
+		<address>Barrywoods Crossing, 
+		8101 Roanridge Rd, 
+		Kansas City, MO 64151
+		</address>
+		<phone>(816) 505-9199</phone>
+		<website>https://www.amctheatres.com/movie-theatres/kansas-city/amc-barrywoods-24</website>
+	</AMCBarrywoods>
+	
+	<AMCLegends>
+		<name>AMC Legends 14</name>
+		<location>Kansas City</location>
+		<address>1841 Village W Pkwy, Kansas City,
+		KS 66111
+		</address>
+		<phone>(913) 954-5238</phone>
+		<website>https://www.amctheatres.com/movie-theatres/kansas-city/amc-legends-14</website>
+	</AMCLegends>
+	
+	<AMCTownCentre>
+		<name>AMC TownCentre 20</name>
+		<location>Town Center Plaza</location>
+		<address>Town Center Plaza, 11701 Nall Ave, Leawood, KS 66211
+		</address>
+		<phone>(913) 498-8696</phone>
+		<website>https://www.amctheatres.com/movie-theatres/kansas-city/amc-town-center-20</website>
+	</AMCTownCentre>
+	
+	<RioTheatre>
+		<name>Rio Theatre</name>
+		<location>Overland Park</location>
+		<address>7204 W 80th St, Overland Park, KS 66204
+		</address>
+		<phone>(913) 383-8500</phone>
+		<website>http://www.fineartsgroup.com/</website>
+	</RioTheatre>
+	
+	<StandeesTheatre>
+		<name>Standees Theatre</name>
+		<location>The Village</location>
+		<address>The Village, 3935 W 69th Terrace, Prairie Village, KS 66208
+		</address>
+		<phone>(913) 601-5250</phone>
+		<website>http://www.standeestheatres.com/</website>
+	</StandeesTheatre>
+	
+	<AMCIndependence>
+		<name>AMC Independence Commons 20</name>
+		<location>Independence Commons</location>
+		<address> Independence Commons, 19200 East 39th St S, Independence, MO 64057
+		</address>
+		<phone>(816) 795-1430</phone>
+		<website>https://www.amctheatres.com/movie-theatres/kansas-city/amc-independence-commons-20</website>
+	</AMCIndependence>
+	
+	<AMCWard>
+		<name>AMC Ward Parkway 14</name>
+		<location>South Kansas City</location>
+		<address>Ward Parkway Center, 8600 Ward Pkwy #14, Kansas City, MO 64114
+		</address>
+		<phone> (816) 333-1300</phone>
+		<website>https://www.amctheatres.com/movie-theatres/kansas-city/amc-ward-parkway-14</website>
+	</AMCWard>
+	
+	<BBLiberty>
+		<name>BB Liberty Cinema 12</name>
+		<location>Liberty</location>
+		<address>2101 W Kansas St, Liberty, MO 64068
+		</address>
+		<phone>(816) 781-4141</phone>
+		<website>http://www.bbtheatres.com/</website>
+	</BBLiberty>
+	
+	<BBTheatres>
+		<name>BB Theatres Northland 14</name>
+		<location>Kansas City</location>
+		<address>4900 NE 80th St, Kansas City, MO 64119
+		</address>
+		<phone>(816) 468-1100</phone>
+		<website>http://www.bbtheatres.com/kc-northland-14/</website>
+	</BBTheatres>
+	
+	<BBShawnee>
+		<name>BB Theatres Shawnee 18</name>
+		<location>Shawnee</location>
+		<address>16301 Midland Dr, Shawnee, KS 66217
+		</address>
+		<phone>(913) 631-6732</phone>
+		<website>http://www.bbtheatres.com/shawnee-18/</website>
+	</BBShawnee>
+</MovieTheatres>

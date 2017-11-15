@@ -1,0 +1,108 @@
+<?xml version = "1.0"?>
+<IndianRestaurants>
+	<ruchiRestaurant>
+		<name>Ruchi Restaurant</name>
+		<location>Shannon Valley Shopping Center</location>
+		<address>Shannon Valley Shopping Center, 
+				  11168 Antioch Rd,
+				  Overland Park, KS 66210
+		</address>
+		<phone>(913) 661-9088</phone>
+		<hours>11AM–2:30PM, 5–10PM</hours>
+		<website>http://www.ruchicuisine.com/</website>
+	</ruchiRestaurant>
+	<kormaRestaurant>
+		<name>Korma Sutra</name>
+		<location>Overland Park</location>
+		<address>7217 W 110th St, Overland Park, KS 66210</address>
+		<phone>(913) 345-8774</phone>
+		<hours>11AM–2:30PM, 5–9PM
+				Sunday	11AM–2:30PM, 5–9PM
+				Monday	11AM–2:30PM, 5–9PM
+				Tuesday	11AM–2:30PM, 5–9PM
+				Wednesday	11AM–2:30PM, 5–9PM
+				Thursday	11AM–2:30PM, 5–9PM
+				Friday	11AM–2:30PM, 5–9PM
+		</hours>
+		<website>http://kckormasutra.net/</website>
+	</kormaRestaurant>
+	
+	<indiaPalaceRestaurant>
+				<name>India Palace</name>
+				<location>Overland Park</location>
+				<address>9918 W 87th St, Overland Park, KS 66212</address>
+				<phone>(913) 381-1680</phone>
+				<hours>Saturday	11:30AM–2:30PM, 5–10PM
+						Sunday	11:30AM–2:30PM, 5–9PM
+						Monday	11:30AM–2PM, 5–9:30PM
+						Tuesday	Closed
+						Wednesday 11:30AM–2PM, 5–9:30PM
+						Thursday 11:30AM–2PM, 5–9:30PM
+						Friday 11:30AM–2PM, 5–10PM
+				</hours>
+				<website>No website</website>
+	</indiaPalaceRestaurant>
+	
+	<KultureRestaurant>
+				<name>Kulture Kurry</name>
+				<location>Overland Park</location>
+				<address>9940 College Blvd, Overland Park, KS 66210</address>
+				<phone>(913) 339-9511</phone>
+				<hours>11:30AM–2:30PM, 5–10PM
+						Sunday	11:30AM–2:30PM, 5–10PM
+						Monday	11:30AM–2:30PM, 5–10PM
+						Tuesday	11:30AM–2:30PM, 5–10PM
+						Wednesday	11:30AM–2:30PM, 5–10PM
+						Thursday	11:30AM–2:30PM, 5–10PM
+						Friday	11:30AM–2:30PM, 5–10PM
+				</hours>
+				<website>http://www.kulturekurry.com/</website>
+		</KultureRestaurant>
+		<chilliRestaurant>
+				<name>Chilli n Spice Indian Bistro</name>
+				<location>Overland Park</location>
+				<address>Overland Pointe Marketplace, 8562 W 133rd St, Overland Park, KS 66213</address>
+				<phone>(913) 681-3663</phone>
+				<hours>11:30AM–3PM, 5:30–10PM
+						Sunday	11:30AM–3PM, 5:30–10PM
+						Monday	Closed
+						Tuesday	11AM–2:30PM, 5:30–10PM
+						Wednesday	11AM–2:30PM, 5:30–10PM
+						Thursday	11AM–2:30PM, 5:30–10PM
+						Friday	11AM–2:30PM, 5:30–10PM
+						</hours>
+				<website>http://www.chillinspice.com/</website>
+		</chilliRestaurant>
+		
+		<asiaRestaurant>
+				<name>Touch of Asia</name>
+				<location>Overland Park,</location>
+				<address>6860 W 105th St, Overland Park, KS 66212</address>
+				<phone>(913) 648-9700</phone>
+				<hours>		Saturday	11:30AM–3PM, 5–10PM
+							Sunday	11:30AM–3PM, 5–9:30PM
+							Monday	Closed
+							Tuesday	11AM–2PM, 5–9:30PM
+							Wednesday	11AM–2PM, 5–9:30PM
+							Thursday	11AM–2PM, 5–9:30PM
+							Friday	11AM–2PM, 5–10PM
+				</hours>
+				<website>No website</website>
+		</asiaRestaurant>
+		
+		<kababeshRestaurant>
+				<name>Kababesh Grill</name>
+				<location>Overland Park</location>
+				<address>10142 W 119th St, Overland Park, KS 66213</address>
+				<phone>(913) 696-1101</phone>
+				<hours>Saturday	10AM–3PM, 5–10PM
+							Sunday	11AM–3PM, 5–9PM
+							Monday	Closed
+							Tuesday	11AM–3PM, 5–10PM
+							Wednesday	11AM–3PM, 5–10PM
+							Thursday	11AM–3PM, 5–10PM
+							Friday	11AM–3PM, 5–10PM
+				</hours>
+				<website>http://www.kababeshgrill.com/Main.aspx</website>
+		</kababeshRestaurant>
+</IndianRestaurants>

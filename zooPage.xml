@@ -1,0 +1,48 @@
+<?xml version = "1.0"?>
+<zooAnimalParkDetails>
+
+<KansasCityZoo>
+<name>Kansas City Zoo</name>
+<address>6800 Zoo Dr.
+Kansas City, MO 64132</address>
+<phone>(816) 595-1234</phone>
+<website>https://www.kansascityzoo.org</website>
+</KansasCityZoo>
+
+<SeaLifeAquarium>
+<name>Sea Life Kansas City Aquarium</name>
+<address>2475 Grand Blvd.
+Kansas City, MO 64108</address>
+<phone>816-471-4FUN (4386)</phone>
+<website>http://www.visitsealife.com/kansas-city</website>
+</SeaLifeAquarium>
+
+<AlpacaKingdom>
+<name>Alpaca Kingdom</name>
+<address>26560 W 207th St.
+Spring Hill, KS 66083</address>
+<phone>(913) 856-6545</phone>
+<website>http://www.alpacakingdom.com/</website>
+</AlpacaKingdom>
+
+
+<ParksRecreation>
+<name>Kansas City Parks and Recreation</name>
+<address>4600 E 63rd St.
+Kansas City, MO 64130</address>
+<phone>(816) 513-7500</phone>
+<website>http://kcparks.org</website>
+</ParksRecreation>
+
+
+<JacksonCountry>
+<name>
+Jackson Country Parks</name>
+<address>22807 Woods Chapel Rd.
+Blue Springs, MO 64015</address>
+<phone> (816) 503-4800</phone>
+<website>http://www.makeyourdayhere.com</website>
+</JacksonCountry>
+
+
+</zooAnimalParkDetails>

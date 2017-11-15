@@ -1,0 +1,68 @@
+<?xml version = "1.0"?>
+<italianRestaurants>
+	
+		<luigiRestaurant>
+				<name>Luigi&apos;s</name>
+				<location>Warrensburg</location>
+				<address>121 E Pine St, Warrensburg, MO 64093</address>
+				<phone>(660) 362-1370</phone>
+				<hours>	Friday	11AM–10PM
+						Saturday 11AM–10PM
+						Sunday	11AM–10PM
+						Monday	Closed
+						Tuesday	11AM–10PM
+						Wednesday 11AM–10PM
+						Thursday 11AM–10PM
+				</hours>
+				<website>No Website</website>
+		</luigiRestaurant>
+		
+		<cinzettiRestaurant>
+				<name>Cinzetti&apos; </name>
+				<location>Overland Park</location>
+				<address>7201 W 91st St, Overland Park, KS 66212</address>
+				<phone>(913) 642-0101</phone>
+				<hours>Friday	11:15AM–2PM, 5–9PM
+						Saturday	11AM–9PM
+						Sunday	10AM–8:30PM
+						Monday	11:15AM–2PM, 5–9PM
+						Tuesday	11:15AM–2PM, 5–9PM
+						Wednesday	11:15AM–2PM, 5–9PM
+						Thursday	11:15AM–2PM, 5–9PM
+				</hours>
+				<website>No website</website>
+		</cinzettiRestaurant>
+		
+		<olivegardenRestaurant>
+				<name>Olive Garden</name>
+				<location>Lee&apos; Summit</location>
+				<address>650 NW Blue Pkwy, Lee&apos; Summit, MO 64063</address>
+				<phone>(816) 347-9778</phone>
+				<hours>Friday	11AM–11PM
+						Saturday	11AM–11PM
+						Sunday	11AM–10PM
+						Monday	11AM–10PM
+						Tuesday	11AM–10PM
+						Wednesday	11AM–10PM
+						Thursday	11AM–10PM
+				</hours>
+				<website>http://www.olivegarden.com/menu-listing/pronto-lunch</website>
+		</olivegardenRestaurant>
+	
+		<garozzosRestaurant>
+				<name>Garozzo's Ristorante</name>
+				<location>Kansas City</location>
+				<address>526 Harrison St, Kansas City, MO 64106</address>
+				<phone>(816) 221-2455</phone>
+				<hours>	Monday	11AM–10PM
+						Tuesday	11AM–10PM
+						Wednesday	11AM–10PM
+						Thursday	11AM–10PM
+						Friday	11AM–11PM
+						Saturday	4–11PM
+						Sunday	4–9PM
+				</hours>
+				<website>garozzos.com</website>
+		</garozzosRestaurant>
+		
+</italianRestaurants>
